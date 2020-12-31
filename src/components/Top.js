@@ -5,7 +5,7 @@ class Top extends React.Component {
     render() {
         return (
             <div className="ui one column centered">
-                <h1 className="clock-title">DIGIREACT <span className="clock-word">CLOCK</span></h1>
+                <h1 className="clock-title">DIGI-REACT <span className="clock-word">CLOCK</span></h1>
             </div>
         );
     }

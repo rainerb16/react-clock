@@ -9,3 +9,17 @@
     box-shadow: 2px 8px 1px #D74E09;
     border-radius: 5%;
 }
+
+@media only screen and (min-width: 670px) {
+    .clock-container {
+        width: 50%;
+        margin-left: 25%;
+    }
+}
+
+@media only screen and (min-width: 1020px) {
+    .clock-container {
+        width: 25%;
+        margin-left: 37.5%;
+    }
+}
