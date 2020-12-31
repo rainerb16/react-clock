@@ -1,0 +1,11 @@
+.clock-container {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 42px;
+    margin-top: 10vh;
+    font-weight: bolder;
+    border: 2px solid black;
+    width: 75%;
+    margin-left: 12.5%;
+    box-shadow: 2px 8px 1px #D74E09;
+    border-radius: 5%;
+}
