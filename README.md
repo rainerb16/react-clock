@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Clock
+
+Simple clock showcasing and practice the use of State and lifecycle methods.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
